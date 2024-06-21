@@ -1,0 +1,32 @@
+/* src/HeaderLine.css */
+.header-line {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2d2d3b;
+  padding: 10px 0;
+}
+
+.line {
+  flex-grow: 1;
+  height: 2px;
+  background-color: #666;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 1.5em;
+  margin: 0 15px;
+}
+
+.foot-logo{
+  height: 60px;
+  width: 60px;
+}
+
+.foot-text{
+  font-weight: 700;
+  letter-spacing: 8px;
+}

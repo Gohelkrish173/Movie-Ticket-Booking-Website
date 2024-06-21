@@ -1,0 +1,52 @@
+.thumb-m{
+  height: 100%;
+  width: 100%;
+}
+
+.bgDark{
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.crewcard{
+  /* height: 200px; */
+  width: 200px;
+}
+
+.castcard{
+  /* height: 200px; */
+  width: 200px;
+}
+
+.castcard img{
+  height: 100px;
+  width: 100px;
+}
+
+.crewcard img{
+  height: 100px;
+  width: 100px;
+}
+
+.cast{
+  height: 100%;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.cast::-webkit-scrollbar{
+  border: 0;
+  width: 0;
+}
+
+.crew{
+  height: 100%;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.crew::-webkit-scrollbar{
+  border: 0;
+  width: 0;
+}
