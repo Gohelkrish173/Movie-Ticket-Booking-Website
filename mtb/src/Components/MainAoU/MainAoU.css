@@ -1,0 +1,23 @@
+.header{
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.aou1{
+  background-color: #F84464;
+  height: auto;
+  width: 100%;
+  font-size: 2.5vh;
+  color: white;
+  text-align: center;
+  padding-top: 2.5px;
+  padding-bottom: 2.5px;
+}
+
+.aou2{
+  height: 650px;
+  width: 100%;
+  padding-left: 150px;
+  padding-right: 150px;
+  /* background-color: #F84464; */
+}

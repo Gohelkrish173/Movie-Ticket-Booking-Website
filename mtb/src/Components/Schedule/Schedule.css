@@ -1,0 +1,53 @@
+
+.img-p{
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  border: 0px;
+}
+
+.ms-data{
+  width: 100%;
+  text-align: center;
+}
+
+.b-head{
+  border-bottom: 2px solid black;
+}
+
+.ub{
+  background-color: white ;
+  color: #f84464;
+  border-radius: 40px;
+  width: 50px;
+  height: 40px;
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+}
+
+.ub-1{
+  background-color: transparent;
+}
+
+.aou-btn {
+	border-radius: 20px;
+	/* border: 1px solid #FF4B2B; */
+	background-color: #F84464;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+}
+
+.aou-btn:active {
+	transform: scale(0.95);
+}
+
+.aou-btn:focus {
+	outline: none;
+}
